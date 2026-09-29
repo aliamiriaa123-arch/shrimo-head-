@@ -1,5 +1,7 @@
 # پروژهٔ سیستم هوادهی مزارع میگو (تغییر جهت به میکروحباب)
 
+> **ارزیابی تخصصی نسل بعد (۲۰۲۶-۰۹-۲۹):** [`NextGen_Aerator_Expert_Assessment.md`](NextGen_Aerator_Expert_Assessment.md) — تحلیل انرژی طرح فعلی (SPD V3)، معماری پیشنهادی LLFB، و برنامهٔ آزمون مقایسه‌ای. مدل محاسباتی در [`aeration_model/`](aeration_model/).
+
 > **بسته ساخت دیفیوزر (CAD V3.0، ۲۰۲۶-۰۹-۲۸):** فایل‌های قابل ساخت در `3D_Print_STLs/`، مستند مهندسی در [`CAD_V3_DESIGN_BASIS_AND_VERIFICATION.md`](CAD_V3_DESIGN_BASIS_AND_VERIFICATION.md) و گزارش آزمون خودکار در `verification/V3_VERIFICATION_REPORT.md` (۸۲/۸۲ PASS).
 
 > **مرجع واحد فعلی:** برای تصمیم معماری، اعداد طراحی، BOM، توان و وضعیت تجاری فقط [`MASTER_SYSTEM_ARCHITECTURE.md`](MASTER_SYSTEM_ARCHITECTURE.md) معتبر است. این فایل و سایر فایل‌های پوشه سوابق تحقیقاتی/نسخه‌های قبلی هستند.
